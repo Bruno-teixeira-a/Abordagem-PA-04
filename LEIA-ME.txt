@@ -1,0 +1,6 @@
+PROJETO ANDROID (NÃO É APK)
+Abrir no Android Studio, aguardar Gradle Sync e usar Build > Build APK(s).
+APK de teste: app/build/outputs/apk/debug/app-debug.apk.
+Para distribuição real, gerar APK assinado com chave própria e testar antes.
+Funciona offline e não requer permissões de rede. Não incluir dados sigilosos de associados.
+Uso da marca e distribuição sujeitos às políticas da cooperativa.
